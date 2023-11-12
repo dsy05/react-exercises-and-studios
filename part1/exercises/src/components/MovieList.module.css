@@ -1,7 +1,13 @@
 .movieText {
-   color: black;
+   color: rgb(16, 26, 211);
+   text-align: left;
+   font-size: 30px;
+}
+
+.list {
+   background-color: aqua;
 }
 
 .movieHeading {
-   color: black;
+   color: rgb(231, 13, 13);
 }
