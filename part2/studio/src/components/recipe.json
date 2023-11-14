@@ -1,17 +1,32 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Pakistani chicken biryani",
+     "author": "Wajiha",
+     "description": "A traditional spicy Karachi Chicken Biryani, made with layering spicy chicken curry with rice.",
+     "website": "https://butteroverbae.com/pakistani-chicken-biryani/",
+     "recipeImage": "https://butteroverbae.com/wp-content/uploads/2020/10/karachi-chicken-biryani-32.jpg",
+     "authorImage": "https://butteroverbae.com/wp-content/uploads/2022/12/author-profile.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+      {
+        "id": 1,
+        "ingredientName": "1 kg chicken cut into smaller pieces"
+      },
+      {
+        "id": 2,
+        "ingredientName": "1 tbsp garlic ginger paste"
+      },
+      {
+        "id": 3,
+        "ingredientName": "1 tsp red chili powder" 
+      },
+      {
+        "id": 4,
+        "ingredientName": "1 tbsp kashmiri red chili powder"
+      },
+      {
+        "id": 5,
+        "ingredientName": "1 cup yogurt"
+      }
      ]
    }
  ]
