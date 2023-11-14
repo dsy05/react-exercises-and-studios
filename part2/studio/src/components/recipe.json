@@ -28,6 +28,36 @@
         "ingredientName": "1 cup yogurt"
       }
      ]
-   }
+   },
+   {
+    "name": "Nihari",
+    "author": "Sarah Mir",
+    "description": "Nihari - A Classic Pakistani Dish",
+    "website": "https://www.flourandspiceblog.com/nihari/",
+    "recipeImage": "https://www.flourandspiceblog.com/wp-content/uploads/2018/06/Nihari_3.jpg",
+    "authorImage": "https://www.flourandspiceblog.com/wp-content/uploads/2020/03/Sarah_Mir-1-330x500.jpg",
+    "ingredients": [
+     {
+       "id": 1,
+       "ingredientName": "2 lb Large chunks of beef/veal - 3 inch pieces"
+     },
+     {
+       "id": 2,
+       "ingredientName": "1 ½ tbsp ginger paste and garlic paste"
+     },
+     {
+       "id": 3,
+       "ingredientName": "1 tbsp coriander powder" 
+     },
+     {
+       "id": 4,
+       "ingredientName": "1.5 tbsp coriander seeds"
+     },
+     {
+       "id": 5,
+       "ingredientName": "1 tbsp coriander powder"
+     }
+    ]
+  }
  ]
  
