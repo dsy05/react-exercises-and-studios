@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import HobbyIntroduction from './components/Introduction';
+import HobbyIntroduction from './components/HobbyIntroduction';
 import MyProjects from './components/Projects';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div className="App">
-	  <h1>My Hobby: Needlepoint</h1>
+	  <h1>My Hobby: Cooking</h1>
 	  <HobbyIntroduction />
 	  <MyProjects />
       </div>
